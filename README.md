@@ -2,7 +2,7 @@
 Task 8 @ Elevvo ML Internship
 
 ## Instructions
-1. Dataset (Recommended): MovieLens 100K Dataset (Kaggle).
+1. Dataset (Recommended): MovieLens 100K Dataset ([Kaggle](https://www.kaggle.com/)).
 2. Build a system that recommends movies based on user similarity.
 3. Use a user-item matrix to compute similarity scores.
 4. Recommend top-rated unseen movies for a given user.
