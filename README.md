@@ -8,6 +8,10 @@ Task 8 @ Elevvo ML Internship
 4. Recommend top-rated unseen movies for a given user.
 5. Evaluate performance using precision at K.
 
+### Bonus:
+1. Implement item-based collaborative filtering.
+2. Try matrix factorization (SVD).
+
 ## Dataset
 - [Movie Recommendation Dataset](https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset/data)
 
